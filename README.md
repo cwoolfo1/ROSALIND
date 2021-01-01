@@ -1,5 +1,5 @@
 # ROSALIND
-This repo contains my solutions to the problems on rosalind.info
+This repo contains my solutions to the problems on rosalind.info.
 My fall 2020 semester I started to get involved in undergraduate research as a freshman.
 Because I lacked the prerequisite knowledge to participate in physics research, I began looking at other research opportunities.
 I started working on a bioinformatics project the fall semester of my freshman year that involved the prediction of gene regulatory networks using deep learning.
