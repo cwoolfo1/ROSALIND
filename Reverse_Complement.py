@@ -20,7 +20,7 @@ def reverse_complement(input_seq):
         elif (res[i] == 'G'):
             res[i] = 'C'
     
-    # converts the list of DNA nucleotides to its reverse complement.
+    # converts the list of DNA nucleotides to its complement.
     
     finalstring = ''.join(res)
     
